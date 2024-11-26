@@ -8,4 +8,4 @@ This code is a simplified version of the full ESPRESSO algorithm. This process f
 
 Implementation Challanges & Solutions:
 1. Combining Terms Correctly: The first challange was accurately combining terms that differ by only one variable along with successfully handling don't care conditions.
-   Solution: The combine_terms function was used to check pairs of terms. 
+   Solution: The **combine_terms** function was used to check pairs of terms. 
