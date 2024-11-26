@@ -6,7 +6,7 @@ The full ESPRESSO algorithm is complex and envolves multiple sophisticated steps
 
 This code is a simplified version of the full ESPRESSO algorithm. This process focuses on combining terms that differ only one variable which is suitable for small-scale logic functions. We tested it for up to 10 variables and the code works fine.
 
-
+/n
 Implementation Overview:
    1. Reading and Parsing the PLA file: The code reads the input PLA file and separates it into header directives and logic terms.
    2. Parsing the Logic Terms: The raw logic terms are converted into a structured format for processing.
