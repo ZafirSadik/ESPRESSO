@@ -1,8 +1,8 @@
 # ESPRESSO
 
-This code implements ESPRESSO algorithm for two level logic minimization using python.
+This code implements the ESPRESSO algorithm for two-level logic minimization using python.
 
-The full ESPRESSO algorithm is complex and envolves multiple sophisticated steps like expansion, reduction and irredundent cover extraction. It also handles don't care conditions.
+The full ESPRESSO algorithm is complex and involves multiple sophisticated steps like expansion, reduction and irredundant cover extraction. It also handles don't care conditions.
 
 This code is a simplified version of the full ESPRESSO algorithm. This process focuses on combining terms that differ only one variable which is suitable for small-scale logic functions. We tested it for up to 10 variables and the code works fine.
 
